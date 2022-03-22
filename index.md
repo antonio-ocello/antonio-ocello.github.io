@@ -1,6 +1,6 @@
-I am a PhD student in statistics, since October 2020, at LPSM, Sorbonne University, under the supervision of [Etienne Roquain](https://etienneroquain-81.webself.net/), [Tabea Rebafka](https://www.lpsm.paris/pageperso/rebafka/) and [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska/home). 
+I am a PhD student in Probability, since January 2021, at LPSM, Sorbonne University in Paris, under the supervision of [Idris Kharroubi](https://www.lpsm.paris/pageperso/kharroubii/). 
 
-My research interests are about statistical learning/inference on graphs. 
+My research interests are about Stochastic control and Numerical methods. 
 
 ## Publications
 To come.
@@ -8,12 +8,17 @@ To come.
 ## Teaching
 
 ### 2021-2022
-- Probability and statistics, Polytech Sorbonne, third year, Materials (MTX) specialty (lectures and exercice classes)
-- Applied statistics, Polytech Sorbonne, fourth year, Materials (MTX) speciality (lectures and exercice classes)
+- *Modélisation statistique*, Sorbonne Université, M1 Mathématiques et Application (practical classes)
+- *Probabilités numériques et statistiques computationnelles*, Sorbonne Université, M1 Mathématiques et Application (practical classes)
+- *Finance stochastique*, ISUP, Master Actuariat (exercise classes)
+
+### 2020-2021
+- *Probabilités numériques et statistiques computationnelles*, Sorbonne Université, M1 Mathématiques et Application (practical classes)
+- *Finance stochastique*, ISUP, Master Actuariat (exercise classes)
 
 ## Activities
 - Co-organizer of the [PhD students seminar at LPSM](https://www.lpsm.paris/agenda/seminaires-gdt/gtt/)
 
 
 ---
-Contact me at ariane dot marandon-carlhian at sorbonne-universite dot fr
+Contact me at antonio[dot]ocello[at]sorbonne-universite[dot]fr

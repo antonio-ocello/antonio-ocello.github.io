@@ -24,7 +24,7 @@ author: Antonio Ocello
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "assets/img/IMG_20210817_185947_900.webp"[width = 500]
+avatar: "assets/img/IMG_20210817_185947_900.webp"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false

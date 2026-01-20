@@ -2324,14 +2324,26 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		.image.featured {
+		/* .image.featured {
 			display: block;
 			margin: 0 0 3em 0;
 			width: 100%;
 		}
 
+		.image.featured img {
+			width: 100%;
+		} */
+			.image.featured {
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				margin: 0 0 3em 0;
+			}
+
 			.image.featured img {
-				width: 100%;
+				max-width: 80%;   /* adjust: 50%–80% as needed */
+				height: auto;
+				display: block;
 			}
 
 			@media screen and (max-width: 736px) {

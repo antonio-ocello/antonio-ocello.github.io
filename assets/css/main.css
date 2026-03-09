@@ -3035,6 +3035,60 @@ input, select, textarea {
 
 		}
 
+		/* Inline collapsible text inside posts */
+
+		.post details.collapsible {
+			margin: 0 0 2em 0;
+			padding: 0;
+			border: 0;
+			background: transparent;
+		}
+
+		/* .post details.collapsible summary {
+			cursor: pointer;
+			list-style: none;
+			display: inline-block;
+			font-family: inherit;
+			font-size: 1em;
+			font-weight: 700;
+			letter-spacing: normal;
+			line-height: inherit;
+			text-transform: none;
+			color: inherit;
+			margin-bottom: 0.5em;
+		} */
+
+		.post details.collapsible summary {
+			cursor: pointer;
+			display: inline;
+			font: inherit;
+			font-weight: inherit;
+			color: #2ebaae;
+		}
+
+		.post details.collapsible summary::-webkit-details-marker {
+			display: none;
+		}
+
+		.post details.collapsible summary .arrow {
+			display: inline-block;
+			margin-right: 0.4em;
+			transition: transform 0.2s ease;
+			font-size: 0.9em;
+		}
+
+		.post details.collapsible[open] summary .arrow {
+			transform: rotate(180deg);
+		}
+
+		.post details.collapsible .content {
+			margin-top: 0.5em;
+		}
+
+		.post details.collapsible .content p:last-child {
+			margin-bottom: 0;
+		}
+
 /* Section/Article */
 
 	section.special, article.special {
